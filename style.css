@@ -1,0 +1,166 @@
+.header {
+  padding: 60px;
+  text-align: center;
+  background: grey;
+  color: white;
+  font-size: 30px;
+}
+
+body {
+    background-color: black;
+  }
+
+
+/* /* .topnav {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    overflow: hidden;
+    
+  } */
+  
+ 
+  /* .topnav a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 15px 90px;
+    padding-top: 15px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+  .topnav a:hover {
+    background-color: lightblue;
+    color: black;
+  }
+  
+ 
+  .topnav a.active {
+    background-color:lightblue;
+    color: black;
+  } */ 
+
+  .h1_div{
+    /* display: flex; */
+    text-align: center;
+    margin: auto;
+    padding-top: 150px;
+    font-family: 'Noto Serif', serif;
+    font-size: 40px;
+    color: white;
+  }
+
+  .h2_div{
+    /* display: flex; */
+    text-align: center;
+    margin: auto;
+    padding-top: 200px;
+    font-family: 'Noto Serif', serif;
+    width: 50%;
+    font-size: 40px;
+    color: white;
+    
+  }
+
+  #t p{
+    text-align: center;
+    margin: auto;
+    padding: 100px;
+    font-family: 'Noto Serif', serif;
+    width: 50%;
+    font-size: 25px;
+    color: white
+
+  }
+
+  .h4_div{
+    /* display: flex; */
+    text-align: center;
+    margin: auto;
+    padding-top: 20px;
+    font-family: 'Noto Serif', serif;
+    width: 50%;
+    font-size: 40px;
+    color: white
+  }
+
+  .h5_div{
+      text-align: center;
+      margin: auto;
+      font-family: 'Noto Serif', serif;
+      font-size: 40px;
+      color: white;
+  }
+
+  .h6_div{
+    text-align: center;
+    margin: auto;
+    font-family: 'Noto Serif', serif;
+    font-size: 40px;
+    color: white;
+}
+
+.h7_div{
+  text-align: center;
+  margin: auto;
+  font-family: 'Noto Serif', serif;
+  font-size: 40px;
+  color: white;
+}
+
+.h8_div{
+  text-align: center;
+  margin-top: 300px;
+  font-family: 'Noto Serif', serif;
+  font-size: 40px;
+  color: white;
+}
+
+.h9_div{
+  text-align: center;
+  margin: auto;
+  font-family: 'Noto Serif', serif;
+  font-size: 30px;
+  color: white;
+}
+
+
+
+
+.footer{
+  padding: 40px;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: grey;
+  color: white;
+  text-align: center;
+  overflow: hidden;
+}
+
+.footer a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 15px 90px;
+  padding-top: 15px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.footer a:hover {
+  background-color: grey;
+  color: black;
+}
+
+
+.footer a.active {
+  background-color:grey;
+  color: black;
+}
+
+a{
+  color: white;
+}
